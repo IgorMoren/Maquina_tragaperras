@@ -1,0 +1,28 @@
+.caja {
+    display: inline-flex;
+    height: 250px;
+    width: 250px;
+}
+
+.box {
+    display: inline-flex;
+    height: 250px;
+    width: 250px;
+}
+
+#slot1, #slot2, #slot3 {
+    border-style: solid;
+}
+
+#salir {
+    width: 250px;
+    margin-bottom: 35px;
+}
+
+#historial {
+    height: 250px;
+    width: 775px;
+    border: 1px solid #ddd;
+    background: #f1f1f1;
+    overflow-y: scroll;
+}
